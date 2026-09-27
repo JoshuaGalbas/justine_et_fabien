@@ -1,0 +1,16 @@
+{
+  "name": "justine-et-fabien",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev:web": "npm --workspace apps/web run dev",
+    "dev:admin": "npm --workspace apps/admin run dev",
+    "build:web": "npm --workspace apps/web run build",
+    "build:admin": "npm --workspace apps/admin run build",
+    "build:api": "dotnet build api/WeddingApi/WeddingApi.Functions/WeddingApi.Functions.csproj --nologo",
+    "test:api": "dotnet test api/WeddingApi/WeddingApi.Tests/WeddingApi.Tests.csproj --nologo"
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\joshua.galbas\justine_et_fabien\api\WeddingApi\WeddingApi.Shared\bin\Debug\net8.0\WeddingApi.Shared.deps.json
+C:\Users\joshua.galbas\justine_et_fabien\api\WeddingApi\WeddingApi.Shared\bin\Debug\net8.0\WeddingApi.Shared.dll
+C:\Users\joshua.galbas\justine_et_fabien\api\WeddingApi\WeddingApi.Shared\bin\Debug\net8.0\WeddingApi.Shared.pdb
+C:\Users\joshua.galbas\justine_et_fabien\api\WeddingApi\WeddingApi.Shared\obj\Debug\net8.0\WeddingApi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshua.galbas\justine_et_fabien\api\WeddingApi\WeddingApi.Shared\obj\Debug\net8.0\WeddingApi.Shared.AssemblyInfoInputs.cache
+C:\Users\joshua.galbas\justine_et_fabien\api\WeddingApi\WeddingApi.Shared\obj\Debug\net8.0\WeddingApi.Shared.AssemblyInfo.cs
+C:\Users\joshua.galbas\justine_et_fabien\api\WeddingApi\WeddingApi.Shared\obj\Debug\net8.0\WeddingApi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\joshua.galbas\justine_et_fabien\api\WeddingApi\WeddingApi.Shared\obj\Debug\net8.0\WeddingApi.Shared.dll
+C:\Users\joshua.galbas\justine_et_fabien\api\WeddingApi\WeddingApi.Shared\obj\Debug\net8.0\refint\WeddingApi.Shared.dll
+C:\Users\joshua.galbas\justine_et_fabien\api\WeddingApi\WeddingApi.Shared\obj\Debug\net8.0\WeddingApi.Shared.pdb
+C:\Users\joshua.galbas\justine_et_fabien\api\WeddingApi\WeddingApi.Shared\obj\Debug\net8.0\ref\WeddingApi.Shared.dll
+C:\Users\joshua.galbas\justine_et_fabien\api\WeddingApi\WeddingApi.Functions\bin\output\WeddingApi.Shared.deps.json
+C:\Users\joshua.galbas\justine_et_fabien\api\WeddingApi\WeddingApi.Functions\bin\output\WeddingApi.Shared.dll
+C:\Users\joshua.galbas\justine_et_fabien\api\WeddingApi\WeddingApi.Functions\bin\output\WeddingApi.Shared.pdb

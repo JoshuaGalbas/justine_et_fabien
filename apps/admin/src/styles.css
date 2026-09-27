@@ -1,0 +1,132 @@
+:root {
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: #f4f3f2;
+  color: #1b1b1b;
+  line-height: 1.5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: #f4f3f2;
+}
+
+button,
+a {
+  font: inherit;
+}
+
+.admin-shell {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  min-height: 100vh;
+}
+
+.sidebar {
+  background: #1d1d1d;
+  color: white;
+  padding: 1.5rem;
+}
+
+.sidebar nav {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.sidebar a {
+  color: white;
+  opacity: 0.9;
+}
+
+.content-panel {
+  padding: 2rem;
+}
+
+.cards {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  margin-top: 1.5rem;
+}
+
+.panel-card,
+.household-card {
+  background: white;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 16px;
+  padding: 1.25rem;
+}
+
+.household-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.household-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.household-header h3 {
+  margin: 0;
+}
+
+.household-header p {
+  margin: 0.35rem 0 0;
+  color: #585858;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  padding: 0.3rem 0.8rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.pill.success {
+  background: #e7f6ee;
+  color: #1f6f4a;
+}
+
+.pill.neutral {
+  background: #f4f1ef;
+  color: #57504d;
+}
+
+.meta-grid {
+  display: grid;
+  gap: 0.85rem;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  margin-top: 1rem;
+}
+
+.meta-grid div {
+  display: grid;
+  gap: 0.3rem;
+  padding: 0.65rem 0.8rem;
+  background: #faf7f5;
+  border-radius: 12px;
+}
+
+.meta-grid strong {
+  font-size: 0.75rem;
+  color: #6b5d5a;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.empty-state {
+  margin-top: 1rem;
+  color: #564d4b;
+}

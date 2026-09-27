@@ -1,0 +1,25 @@
+# VS / IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Node / frontend
+node_modules/
+.npm/
+.pnpm-store/
+coverage/
+dist/
+build/
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Azure / local tooling
+.azure/
+*.log
